@@ -1,0 +1,9 @@
+sudo: false
+
+language: go
+
+go_import_path: github.com/diamcircle/throttled
+
+go:
+  - "1.11.x"
+  - "1.12.x"
